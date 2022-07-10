@@ -1,5 +1,1 @@
-# cryoemA3
-# who is first
-# hah
-# test
-# jjj
+This is a complete workflow diagram for automated annotation and analysis of morphology for cryo-FIB/SEM volume (emA3), which is generalizable and scalable to achieve high throughput whole-cell organelle reconstruction. 
